@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/legion/static/css/main.af0682fc.css",
+    "main.css": "/legion/static/css/main.2cbe30aa.css",
     "main.js": "/legion/static/js/main.7da83670.js",
     "static/media/cover.gif": "/legion/static/media/cover.44954499035330efe248.gif",
     "static/media/1.png": "/legion/static/media/1.c315f0fa3f89f333dd59.png",
@@ -10,11 +10,11 @@
     "static/media/4.png": "/legion/static/media/4.b5ed1586cbe7be3817c9.png",
     "static/media/title.png": "/legion/static/media/title.10a9d60531297f664788.png",
     "index.html": "/legion/index.html",
-    "main.af0682fc.css.map": "/legion/static/css/main.af0682fc.css.map",
+    "main.2cbe30aa.css.map": "/legion/static/css/main.2cbe30aa.css.map",
     "main.7da83670.js.map": "/legion/static/js/main.7da83670.js.map"
   },
   "entrypoints": [
-    "static/css/main.af0682fc.css",
+    "static/css/main.2cbe30aa.css",
     "static/js/main.7da83670.js"
   ]
 }
